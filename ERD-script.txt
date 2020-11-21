@@ -1,0 +1,45 @@
+
+Script for creating ERD 
+on
+https://app.quickdatabasediagrams.com/#/
+---------------------------------------------
+
+Departments
+-
+dept_no PK VARCHAR(4)
+dept_name VARCHAR(50)
+
+
+Dept_Managers
+-
+dept_no VARCHAR(4) FK >- Departments.dept_no
+emp_no INT PK FK - Employees.emp_no
+
+
+Titles
+-
+title_id PK VARCHAR(10)
+title VARCHAR(100)
+
+
+Employees
+-
+emp_no INT PK
+emp_title_id VARCHAR(10) FK >- Titles.title_id
+birth_date DATE
+first_name VARCHAR(40)
+last_name VARCHAR(40)
+sex VARCHAR(1)
+hire_date DATE 
+
+
+Dept_Employees
+-
+emp_no INT PK FK - Employees.emp_no
+dept_no VARCHAR(4) PK FK >- Departments.dept_no
+
+
+Salaries 
+-
+emp_no INT PK FK - Employees.emp_no
+salary INT
