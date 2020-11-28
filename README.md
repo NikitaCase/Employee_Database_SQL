@@ -19,6 +19,6 @@ Very strong company! :muscle:
 
 ![q8](output_images/q8.png)
 
-Then being incredibly nosy, I plotted a graph pf the employee salaries. To prove that the data was fake!
+Then being incredibly nosy, I plotted a graph of the employee salaries. To prove that the data was fake!
 
 ![bonus](output_images/salary_title_bar.png)
