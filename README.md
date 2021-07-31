@@ -6,13 +6,13 @@ This project is only special because it was done by me. Otherwise it's just anot
 
 
 ## Files 
-- schema.sql 
+- schema.sql : 
 Defines the schema. The tables were created to match the csvs in the data folder
 
-- queries.sql
+- queries.sql : 
 Has some simple queries that produce 
 
-- explore_db.ipynb 
+- explore_db.ipynb :  
 Because I Love Jupyter notebooks
 
 
@@ -38,7 +38,10 @@ Then being incredibly nosy, I plotted a graph of the employee salaries. To prove
 ![bonus](output_images/salary_title_bar.png)
 
 
-See, not incredibly interesting
+
+See... not incredibly interesting
+
 Thanks for visiting
+
 :smile_cat: Nikita
 
