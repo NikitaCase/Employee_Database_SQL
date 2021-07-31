@@ -1,8 +1,22 @@
-## Fake Employee Database
+# Employee Database
 ---
 
-For this assignment, we were given employee files in csv format from a fake company. 
-A database was created to house the company's information using the pre-existing csvs as guides for the tables within the database. 
+## Introduction
+This project is only special because it was done by me. Otherwise it's just another simple SQL Database 
+
+
+## Files 
+- schema.sql 
+Defines the schema. The tables were created to match the csvs in the data folder
+
+- queries.sql
+Has some simple queries that produce 
+
+- explore_db.ipynb 
+Because I Love Jupyter notebooks
+
+
+## Pictures
 
 Some queries were done to ensure the files were loaded correctly. For example:
 - The first name, last name, and hire date for employees who were hired in 1986.
@@ -22,3 +36,9 @@ Very strong company! :muscle:
 Then being incredibly nosy, I plotted a graph of the employee salaries. To prove that the data was fake!
 
 ![bonus](output_images/salary_title_bar.png)
+
+
+See, not incredibly interesting
+Thanks for visiting
+:smile_cat: Nikita
+
