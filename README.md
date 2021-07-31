@@ -6,14 +6,11 @@ This project is only special because it was done by me. Otherwise it's just anot
 
 
 ## Files 
-- schema.sql : 
-Defines the schema. The tables were created to match the csvs in the data folder
+- schema.sql : Defines the schema. The tables were created to match the csvs in the data folder
 
-- queries.sql : 
-Has some simple queries that produce 
+- queries.sql : Has some simple queries that produce 
 
-- explore_db.ipynb :  
-Because I Love Jupyter notebooks
+- explore_db.ipynb : Because I Love Jupyter notebooks
 
 
 ## Pictures
